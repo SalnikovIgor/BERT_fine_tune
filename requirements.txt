@@ -1,0 +1,7 @@
+torch~=1.13.1
+torchvision
+notebook
+pandas~=1.5.2
+numpy~=1.24.0
+transformers~=4.25.1
+tokenizers
