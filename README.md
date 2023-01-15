@@ -22,7 +22,7 @@ These results are obtained for the model `bert-base-multilingual-uncased` and da
 | weighted avg |      0.91 |   0.92 |     0.91 |    2883 |
 
 ## Inference
-For inference the model set the variables:  
+To inference the model, run the `inference` notebook and set the variables:  
 `MODEL`: name of base model  
 `MODEL_FILE`: path to fine tune model  
 `text`: input text
